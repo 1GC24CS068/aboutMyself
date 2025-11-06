@@ -1,0 +1,8 @@
+Title: Mr
+Full Name: Mufeez Pasha 
+USN: 1GC24CS068
+Semester: Third 
+Section: B
+Branch: Computer Science & Engineering
+Year of Admission: 2024
+College Name: GCE
