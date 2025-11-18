@@ -6,3 +6,6 @@ Section: B
 Branch: Computer science Engineering
 Year of Admission: 2024
 College Name: GCE
+SSLC: vasavi
+PUC: vasavi composite pu college
+UG: Second Year CSE BE
