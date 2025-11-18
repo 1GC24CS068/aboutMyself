@@ -5,12 +5,6 @@ Semester: Third
 Section: B
 Subject Name: project Management with GIT
 Subject Code: BCS358C
-<<<<<<< HEAD
 Academic Year: 2024-25
 Mobile No: 8073419669
-Email ID: mufeez44556677@gamil.com
-=======
-Academic Year: 2025-26
-Mobile No: 8073419669
-
->>>>>>> feature-branch
+My Date of joining to GCE: 15th sep-2025
