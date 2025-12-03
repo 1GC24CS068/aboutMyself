@@ -8,9 +8,5 @@ Branch: Computer science Engineering
 Year of Admission: 2024
 College Name: GCE
 SSLC School Name: vasavi
-<<<<<<< HEAD
 PUC College Name: vasavi composite pu college
-=======
-PU College Name: vasavi composite pu college
->>>>>>> feature-branch
 UG: Second Year CSE BE
