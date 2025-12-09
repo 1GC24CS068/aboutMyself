@@ -1,6 +1,6 @@
-Title: Mr
+Title: Mr.
 Full Name: Mufeez Pasha
-USN; 1GC24CS068
+USN: 1GC24CS068
 Semester: Third
 Section: B
 Subject Name: Project Management with GIT
